@@ -1,6 +1,7 @@
 #txtファイルを除く
 *.txt*
 .ipynb*
+/**/.ipynb*
 .DS_Store
 #画像ファイルを除く
 *.png
