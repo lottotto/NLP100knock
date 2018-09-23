@@ -5,3 +5,5 @@
 .DS_Store
 #画像ファイルを除く
 *.png
+#resourceに入っているファイル全部
+/**/resource/
